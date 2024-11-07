@@ -1,0 +1,6 @@
+var x 10
+var name "Alice".
+print x      // Output: 10
+print name   // Output: Alice
+add x 5
+print x      // Output: 15
